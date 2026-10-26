@@ -1,0 +1,46 @@
+# .NET
+**/bin/
+**/obj/
+**/bin/Release/
+**/obj/Release/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.userprefs
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.cache
+*.AssemblyInfo*
+
+# NuGet
+packages/
+*.nupkg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Settings folder (user-specific, should be kept local)
+settings/
+
+# Shortcut (Windows-specific)
+*.lnk
